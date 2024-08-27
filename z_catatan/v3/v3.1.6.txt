@@ -1,0 +1,18 @@
+# Anggota
+## Dashboard
+    [x] Tampilkan menu di dashboard
+## FAQ
+    [x] Detail permission
+## Kepengurusan
+    [x] Modal detail lebih baguskan lagi
+    [x] Modal Detail link profile
+## Profile
+    [x] icon plus ditambah teks tambah data
+
+# Administrator
+## Kepengurusan
+    [x] Fix error set aktif kepengurusan
+
+# Frontend
+    [x] Navigasi Mobile
+    [x] Navigasi Mobile tambah galeri

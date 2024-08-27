@@ -1,0 +1,14 @@
+# Mengecualikan file executable
+*.exe
+*.bat
+*.sh
+
+# Mengecualikan direktori yang tidak diperlukan
+node_modules/
+build/
+tmp/
+*.log
+
+# Mengecualikan file dari root folder
+firebase.json
+.firebaserc

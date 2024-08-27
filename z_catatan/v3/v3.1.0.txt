@@ -1,0 +1,5 @@
+[x] Perbaikan sintaks controller model datatable
+[x] Passang tracker hit di semua frontend
+[x] Perbaikan cacheing di frontend
+[x] Perbaikan sintaks di frontend
+[x] Hari besar nasional error menurut permission
